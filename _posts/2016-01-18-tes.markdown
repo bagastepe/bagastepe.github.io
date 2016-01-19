@@ -5,11 +5,7 @@ date:   2016-01-18 15:30:28 +0700
 categories: jekyll update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi aliquam tempore at vero molestias, iusto? Iusto ad pariatur ipsum at officiis ratione magni, voluptas vitae nisi, doloribus atque quam, quae, optio natus sint inventore hic id nemo consequuntur? Impedit fugit quas nam assumenda, error eos ex a libero fuga eius ullam neque voluptatem esse fugiat itaque, tenetur, repellat ducimus. Non deserunt praesentium ipsam officia molestiae optio atque accusantium blanditiis. Eveniet tempora consectetur maxime sed amet esse similique omnis qui molestias. Pariatur ut officia animi eligendi quisquam obcaecati architecto blanditiis, laudantium tempore hic ipsa mollitia dicta dolor repellat nesciunt enim laborum quis, aliquid sed dolore, nemo suscipit nisi. Esse quam incidunt accusamus itaque, fugit aperiam magnam pariatur totam excepturi earum molestias quia odio ducimus repellendus soluta quisquam vero perspiciatis architecto, omnis ipsam doloremque magni, consectetur repellat voluptatum. Similique quaerat obcaecati iste error molestias, et quisquam aperiam. Consectetur illum, eaque dolores! Reiciendis eum asperiores id, doloribus autem explicabo. Nobis suscipit molestias illum quidem, voluptatem facilis. Tempore adipisci eius inventore libero cumque natus cupiditate qui, vero distinctio eaque eum aliquid odio consectetur sapiente doloribus laboriosam incidunt nam quam enim exercitationem nulla temporibus. Praesentium molestiae, nostrum fugiat quae id modi tempore accusantium minus quisquam!
 
 {% highlight php startinline=true %}
   
